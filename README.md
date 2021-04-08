@@ -1,5 +1,9 @@
 [![remoteStorage](https://remotestorage.io/img/icon.svg)](https://remotestorage.io/)
 
+## remoteStorage
+
+An open protocol for per-user storage on the Web
+
 -   [Get Storage](https://wiki.remotestorage.io/Servers)  
      - [Apps](https://wiki.remotestorage.io/Apps)  
      - [Develop](https://wiki.remotestorage.io/Developer_Portal)  
@@ -12,12 +16,6 @@
      - [Twitter](https://twitter.com/remotestorage_)  
      - [Fediverse](https://kosmos.social/@remotestorage)
     
-
-![remoteStorage](https://remotestorage.io/img/icon.svg)
-
-## remoteStorage
-
-An open protocol for per-user storage on the Web
 
 ### Own your data
 
