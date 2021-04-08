@@ -8,6 +8,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+
+```javascript
+
+var gulp = require('gulp');
+var myth = require('gulp-myth');
+
+gulp.task('default', function () {
+    return gulp.src('src/app.css')
+        .pipe(myth())
+        .pipe(gulp.dest('dist'));
+});
+```
+
 ```markdown
 Syntax highlighted code block
 
