@@ -27,15 +27,7 @@ Use the same data across different apps. Create a to-do list in one app, and tra
 
 Most remoteStorage-enabled apps come with first-class offline support. Use your apps offline on the go, and automatically sync when you're back online.
 
-<a class="OLSKDecorPress OLSKDecorPressCall" href="/protocol">Protocol details</a>
-
----
-
-# Apps
-
-Our community has published dozens of apps from note-taking, to music players, to bookmarking, to spreadsheets.
-
-<a class="OLSKDecorPress OLSKDecorPressCall" href="/appn">Apps</a>
+[Browse apps](/apps){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Protocol details](/protocol){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
