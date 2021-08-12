@@ -27,7 +27,7 @@ Use the same data across different apps. Create a to-do list in one app, and tra
 
 Most remoteStorage-enabled apps come with first-class offline support. Use your apps offline on the go, and automatically sync when you're back online.
 
-[Protocol details](/protocol)
+<a class="OLSKDecorPress OLSKDecorPressCall" href="/protocol">Protocol details</a>
 
 ---
 
@@ -35,7 +35,7 @@ Most remoteStorage-enabled apps come with first-class offline support. Use your 
 
 Our community has published dozens of apps from note-taking, to music players, to bookmarking, to spreadsheets.
 
-<a href="/apps"><button>Browse apps</button></a>
+<a class="OLSKDecorPress OLSKDecorPressCall" href="/appn">Apps</a>
 
 ---
 
@@ -110,11 +110,11 @@ We would love for you to get involved — check out [What can I do for remoteSto
 # Sponsors
 
 <div class="sponsors">
-[![NLnet Foundation](https://remotestorage.io/img/sponsors/nlnet.svg)](https://nlnet.nl/ "NLnet Foundation") [![Wau Holland Stiftung](https://remotestorage.io/img/sponsors/whs.svg)](https://www.wauland.de/ "Wau Holland Stiftung") [![5apps](https://remotestorage.io/img/sponsors/5apps.svg)](https://5apps.com/ "5apps") [![DuckDuckGo](https://remotestorage.io/img/sponsors/duckduckgo2.svg)](https://duckduckgo.com/ "DuckDuckGo")
+<a href="https://nlnet.nl/" title="NLnet Foundation"><img src="https://remotestorage.io/img/sponsors/nlnet.svg" alt="NLnet Foundation" /></a> <a href="https://www.wauland.de/" title="Wau Holland Stiftung"><img src="https://remotestorage.io/img/sponsors/whs.svg" alt="Wau Holland Stiftung" /></a> <a href="https://5apps.com/" title="5apps"><img src="https://remotestorage.io/img/sponsors/5apps.svg" alt="5apps" /></a> <a href="https://duckduckgo.com/" title="DuckDuckGo"><img src="https://remotestorage.io/img/sponsors/duckduckgo2.svg" alt="DuckDuckGo" /></a>
 </div>
 
 <style>
 .sponsors img {
-	max-width: 128px !important;
+ max-width: 128px !important;
 }
 </style>
