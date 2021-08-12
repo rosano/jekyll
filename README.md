@@ -1,3 +1,13 @@
+<div class="OLSKCommonCard">
+	<img src="https://remotestorage.io/img/icon.svg" role="presentation" />
+	<div>
+		<h1 style="margin: 0;">remoteStorage</h1>
+		<span>An open protocol for per-user storage on the Web</span>
+	</div>
+</div>
+
+<link rel="stylesheet" href="https://olsk.rosano.ca/OLSKDecor/master/ui-style.css" />
+
 [![remoteStorage](https://remotestorage.io/img/icon.svg)](https://remotestorage.io/)
 
 ## remoteStorage
