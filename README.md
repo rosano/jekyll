@@ -38,18 +38,9 @@ The [remoteStorage.js](https://github.com/remotestorage/remotestorage.js) librar
 ## Setup
 
 ```javascript
-const api = new RemoteStorage({ modules: [{
-	name: 'todoList',
-	builder (privateClient, publicClient) {
-	  return {
-	    exports: {
-	    	storeTodo (object) {
-	    		return privateClient.storeObject('/' + object.id, object);
-	    	},
-	    },
-	  };
-	},
-}] });
+const api = new RemoteStorage();
+
+const client = api.scope('/todos/');
 
 api.access.claim('todos', 'rw');
 
@@ -62,9 +53,9 @@ api.on('ready', function () {
 
 ```javascript
 // write `{"id":"alfa","done":false}` to /todos/alfa.json
-await api.todoList.storeTodo({
-	id: 'alfa',
-	done: false,
+await client.storeObect('/alfa.json', {
+  id: 'alfa',
+  done: false,
 });
 ```
 
