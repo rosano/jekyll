@@ -3,13 +3,13 @@
 	<img src="https://remotestorage.io/img/icon.svg" role="presentation" />
 	<div>
 		<h1 style="margin: 0;">remoteStorage</h1>
-		<span>An open protocol for per-user storage on the Web</span>
 	</div>
 </div>
 
 ---
 
-# Features
+# An open protocol for per-user storage on the Web
+{: .fs-9 }
 
 ## Own your data
 
