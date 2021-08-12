@@ -78,7 +78,7 @@ const widget = new Widget(api);
 widget.attach();
 ```
 
-[Read the documentation](https://remotestoragejs.readthedocs.io)
+[Read the documentation](https://remotestoragejs.readthedocs.io){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
