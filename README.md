@@ -11,7 +11,7 @@
 
 
 This page was moved from the wiki and is in the process of being revised. Please consult the [remoteStorage.js documentation](https://remotestoragejs.readthedocs.io) for more up-to-date-informatien.
-{: .fs-6 .fw-300 .ls-10 .code-example }
+{: .fs-6 .ls-10 .code-example }
 
 # An open protocol for per-user storage on the Web
 {: .fs-9 }
